@@ -1,9 +1,3 @@
-// --== CS400 Project Three File Header ==--
-// Name: Luke Wolfram
-// CSL Username: lwolfram
-// Email: lwolfram@wisc.edu
-// Lecture #: 003 @2:25pm
-// Notes to Grader:
 import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
 
