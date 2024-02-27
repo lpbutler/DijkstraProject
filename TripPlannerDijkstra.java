@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Mohammed Habeeb
-// Email: <mahabeeb@wisc.edu
-// Team: DL
-// TA: Rahul
-// Lecturer: Florian
-// Notes to Grader: <optional extra notes>
-
 import java.util.Hashtable;
 import java.util.List;
 import java.util.LinkedList;
