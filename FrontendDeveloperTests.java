@@ -1,8 +1,3 @@
-// Name: Luke Wolfram
-// CSL Username: lwolfram
-// Email: lwolfram@wisc.edu
-// Lecture #: 003 @2:25pm
-// Notes to Grader:
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import javafx.event.ActionEvent;
