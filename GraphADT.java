@@ -1,11 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Mohammed Habeeb
-// CSL Username: habeeb
-// Email: mahabeeb@wisc.edu
-// Lecture #:  003 @2:25pm
-// Notes to Grader: <any optional extra notes to your grader>
-
-
 import java.util.List;
 import java.util.NoSuchElementException;
 
